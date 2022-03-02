@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--We define the subsections in the Topbar in different components.-->
     <ul class="navbar-nav ml-auto">
         <NavDropdown />
         <NavAlerts />

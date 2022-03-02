@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--We define the subsections in the Topbar in different components.-->
     <!-- Nav Item - Search Dropdown (Visible Only XS) -->
     <li class="nav-item dropdown no-arrow d-sm-none">
       <a

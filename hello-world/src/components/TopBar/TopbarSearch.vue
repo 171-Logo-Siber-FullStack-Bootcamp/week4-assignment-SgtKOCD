@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--We define the subsections in the Topbar in different components.-->
     <form
       class="
         d-none d-sm-inline-block

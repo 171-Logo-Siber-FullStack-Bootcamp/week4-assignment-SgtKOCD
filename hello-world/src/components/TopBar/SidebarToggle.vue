@@ -1,4 +1,5 @@
 <template>
+<!--We define the subsections in the Topbar in different components.-->
   <div>
     <button
       id="sidebarToggleTop"
