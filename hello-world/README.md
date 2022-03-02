@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### If you're run this project
+```
+cd hello-world
+
+npm run serve
+```
+
+
