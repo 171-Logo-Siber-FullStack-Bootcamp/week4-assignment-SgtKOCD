@@ -10,10 +10,10 @@
 </template>
 
 <script>
-import NavDropdown from './NavDropdown.vue'
-import NavAlerts from './NavAlerts.vue'
-import NavMessage from './NavMessage.vue'
-import NavUserInfo from './NavUserInfo.vue'
+import NavDropdown from './NavDropdown.vue';
+import NavAlerts from './NavAlerts.vue';
+import NavMessage from './NavMessage.vue';
+import NavUserInfo from './NavUserInfo.vue';
 export default {
     name:"NavBar",
     components:{

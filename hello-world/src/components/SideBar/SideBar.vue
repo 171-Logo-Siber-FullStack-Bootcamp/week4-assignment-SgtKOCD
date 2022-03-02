@@ -23,8 +23,8 @@ import NavitemDashboard from "./NavitemDashboard.vue";
 import NavMenu from "./NavMenu.vue";
 import NavMenuUtilities from "./NavMenuUtilities.vue";
 import NavCollapse from "./NavCollapse.vue";
-import NavCharts from './NavCharts.vue'
-import NavTables from './NavTables.vue'
+import NavCharts from './NavCharts.vue';
+import NavTables from './NavTables.vue';
 
 export default {
   name: "SideBar",

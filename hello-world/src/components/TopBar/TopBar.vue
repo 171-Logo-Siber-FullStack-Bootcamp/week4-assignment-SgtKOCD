@@ -9,9 +9,9 @@
 </template>
 
 <script>
-import SidebarToggle from './SidebarToggle.vue'
-import TopbarSearch from './TopbarSearch.vue'
-import NavBar from './NavBar/NavBar.vue'
+import SidebarToggle from './SidebarToggle.vue';
+import TopbarSearch from './TopbarSearch.vue';
+import NavBar from './NavBar/NavBar.vue';
 export default {
     name:"TopBar",
     components:{
