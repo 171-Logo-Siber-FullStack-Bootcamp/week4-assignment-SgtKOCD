@@ -1,6 +1,6 @@
 # hello-world
 
-**# Please browse the package.json file before starting the project.**
+# **Please browse the package.json file before starting the project.**
 
 
 ## Project setup
