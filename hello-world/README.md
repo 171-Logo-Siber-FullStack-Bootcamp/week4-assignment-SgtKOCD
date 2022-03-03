@@ -29,5 +29,5 @@ cd hello-world
 
 npm run serve
 ```
-### Please browse the package.json file before starting the project.
+# Please browse the package.json file before starting the project.
 
