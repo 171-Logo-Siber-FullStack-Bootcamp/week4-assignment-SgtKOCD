@@ -1,5 +1,8 @@
 # hello-world
 
+**# Please browse the package.json file before starting the project.**
+
+
 ## Project setup
 ```
 npm install
@@ -29,5 +32,4 @@ cd hello-world
 
 npm run serve
 ```
-# Please browse the package.json file before starting the project.
 
